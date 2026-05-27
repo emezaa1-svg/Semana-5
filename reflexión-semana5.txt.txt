@@ -1,0 +1,8 @@
+Las APIs son esenciales para que las comunidades compartan información de manera organizada.
+Funcionan como un puente de comunicación entre aplicaciones y bases de datos centralizadas.
+Permiten que los usuarios envíen reportes en tiempo real desde dispositivos móviles.
+Esto ayuda a que las autoridades gestionen alertas de forma eficiente y rápida.
+Facilitan la transparencia al estandarizar cómo se registran y visualizan los incidentes.
+Gracias a las APIs, cualquier miembro de la comunidad puede contribuir a la gestión pública.
+Esto fomenta una participación ciudadana más activa y tecnológicamente integrada.
+En conclusión, son la base para construir entornos digitales colaborativos y útiles.

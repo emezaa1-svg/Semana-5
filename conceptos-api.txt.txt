@@ -1,0 +1,2 @@
+- ¿Qué hace esta ruta?: La ruta POST /reporte recibe un objeto JSON con un mensaje, lo extrae y devuelve una respuesta confirmando la recepción del mismo junto con el mensaje enviado.
+- ¿Para qué podría servir?: En una aplicación comunitaria, serviría para que los usuarios envíen reportes, quejas o sugerencias a la base de datos central de la comunidad de forma estructurada.
